@@ -1,0 +1,5 @@
+{
+  "name": "MEP Budget Simulator",
+  "description": "An interactive application for simulating the EU's Multiannual Financial Framework (MFF) budget allocation process. Committee chairs can submit funding proposals against various budget headings, visualizing the financial impact in real-time.",
+  "requestFramePermissions": []
+}
